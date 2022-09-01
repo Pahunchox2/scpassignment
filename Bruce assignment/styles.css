@@ -1,0 +1,28 @@
+@media only screen and (max-device-width: 1000px)
+{
+    img
+    {
+        height: auto;
+        max-width: 100%;
+    }
+} 
+
+.logo
+{
+    max-width: 8%;
+    height: auto;
+}
+
+.index_img
+{
+    width: 200px;
+    height: auto;
+}
+
+.center_img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
